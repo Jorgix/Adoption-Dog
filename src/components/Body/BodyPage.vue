@@ -32,7 +32,7 @@
 
                             <v-card-actions>
                                 <v-btn color="blue-lighten-2" variant="text">
-                                    <v-icon icon="mdi mdi-dog"></v-icon> Faça uma adoção
+                                    <v-icon icon="mdi mdi-dog"></v-icon> Adote um pet
                                 </v-btn>
 
                                 <v-spacer></v-spacer>
